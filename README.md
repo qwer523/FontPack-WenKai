@@ -1,1 +1,1 @@
-# MC-Font-Pack-LXGW-WenKai
+# FontPack-WenKai
