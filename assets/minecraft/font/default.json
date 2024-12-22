@@ -1,0 +1,20 @@
+{
+    "providers": [
+        {
+            "type": "reference",
+            "id": "minecraft:include/space"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/default"
+        },
+        {
+            "type": "ttf",
+            "file": "minecraft:lxgw_wenkai.ttf"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/unifont"
+        }
+    ]
+}
